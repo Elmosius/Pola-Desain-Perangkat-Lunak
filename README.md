@@ -3,10 +3,10 @@
 Selamat datang di repositori saya! Di sini, Anda akan menemukan rekap belajar saya dalam mata kuliah Pola Desain Perangkat Lunak menggunakan bahasa Dart.
 
 ## 📚 Daftar Isi
-- 📝 Strategy Pattern 
-- 🔢 Observer Pattern
-- 📚 Decorator Pattern
-- 🔀 Belum
+- 📝 Review OOP (dart)
+- 🔢 Strategy Pattern
+- 📚 Observer Pattern
+- 🔀 Decorator Pattern
 - 🔗 Belum
 - 📚 Belum
 - 🔀 Belum
