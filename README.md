@@ -1,2 +1,24 @@
-# Pola-Desain-Perangkat-Lunak
-Rekap belajar PDPL memakai Dart
+# 🎯 Pola Desain Perangkat Lunak 2023
+
+Selamat datang di repositori saya! Di sini, Anda akan menemukan rekap belajar saya dalam mata kuliah Pola Desain Perangkat Lunak menggunakan bahasa Dart.
+
+## 📚 Daftar Isi
+- 📝 Strategy Pattern 
+- 🔢 Observer Pattern
+- 📚 Decorator Pattern
+- 🔀 Belum
+- 🔗 Belum
+- 📚 Belum
+- 🔀 Belum
+- 🌳 Belum
+- 🔍 Belum
+- 🔢 Belum
+- 🌳 Belum
+- 🅱️ Belum
+
+## 📚 Other (mandiri)
+- Belajar Dart Dasar
+- OOP Dart
+
+## 📖 Referensi
+- [Buku Head First Design Patterns, 2nd Edition](https://www.oreilly.com/library/view/head-first-design/9781492077992/)
