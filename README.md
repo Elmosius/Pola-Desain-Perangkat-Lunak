@@ -5,9 +5,9 @@ Selamat datang di repositori saya! Di sini, Anda akan menemukan rekap belajar sa
 ## 📚 Daftar Isi
 - 📝 Review OOP (dart)
 - 🔢 Strategy Pattern
-- 📚 Observer Pattern
-- 🔀 Decorator Pattern
-- 🔗 Belum
+- 💻 Observer Pattern
+- 🎄 Decorator Pattern
+- 🏭 Factory Pattern
 - 📚 Belum
 - 🔀 Belum
 - 🌳 Belum
