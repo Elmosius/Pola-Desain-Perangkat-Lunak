@@ -8,6 +8,7 @@ Selamat datang di repositori saya! Di sini, Anda akan menemukan rekap belajar sa
 - 💻 Observer Pattern
 - 🎄 Decorator Pattern
 - 🏭 Factory Pattern
+- 1️⃣ Singleton Pattern
 - ❓ Coming Soon
 
 ## 📚 Other (mandiri)
