@@ -10,6 +10,7 @@ Selamat datang di repositori saya! Di sini, Anda akan menemukan rekap belajar sa
 - 🏭 Factory Pattern
 - 1️⃣ Singleton Pattern
 - 💬 Command Pattern
+- 🧩 Adapter & Facade Pattern
 - ❓ Coming Soon
 
 ## 📚 Other (mandiri)
