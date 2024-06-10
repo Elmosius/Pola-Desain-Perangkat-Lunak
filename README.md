@@ -11,7 +11,7 @@ Selamat datang di repositori saya! Di sini, Anda akan menemukan rekap belajar sa
 - 1️⃣ Singleton Pattern
 - 💬 Command Pattern
 - 🧩 Adapter & Facade Pattern
-- ❓ Coming Soon
+- 📃 Template Method Pattern
 
 ## 📚 Other (mandiri)
 - Belajar Dart Dasar
