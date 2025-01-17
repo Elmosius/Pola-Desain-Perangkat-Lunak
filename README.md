@@ -12,6 +12,7 @@ Selamat datang di repositori saya! Di sini, Anda akan menemukan rekap belajar sa
 - 💬 Command Pattern
 - 🧩 Adapter & Facade Pattern
 - 📃 Template Method Pattern
+- ♨️ [Kenyangin Aja (Project) ](https://github.com/Elmosius/Kenyangin-Aja)
 
 ## 📚 Other (mandiri)
 - Belajar Dart Dasar
